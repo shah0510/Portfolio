@@ -9,7 +9,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/14_fGm7tqoMJboSicQehVuew8NwaPE-4N/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/meetshah0510/",
-  twitter: "https://twitter.com/RishavChanda",
+  twitter: "#",
   insta: "https://www.instagram.com/_.meeet.__/",
 };
 
