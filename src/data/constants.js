@@ -155,7 +155,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHvjwkRTUJZiw/company-logo_200_200/0/1630609747670?e=2147483647&v=beta&t=y6vgmdLT0DtpP9SVoBh3G7TrWivc4SNuWgxBplIu_1g",
     role: "Web Developer Intern",
     company: "Pulmonix Health Care Pvt. Ltd.",
     date: "May 2023- Jul 2023",
@@ -171,7 +171,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvSKJruMFspK4En0tju886VlPZkN9QuxmcOQ&s",
     role: "Frontend Engineer Intern",
     company: "Finurl",
     date: "June 2023 - Present",
@@ -189,7 +189,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dm_hP_hhKn-rccSOmwW9tbSjoJt7Wy1n3Q&s",
     role: "Founder and Owner",
     company: "Youth4India",
     date: "May 2021 - Present",
@@ -216,7 +216,7 @@ export const projects = [
     description:
       "The Canteen Management App is a comprehensive solution developed using Python and Django, aimed at streamlining and enhancing the management of canteen operations. This web-based application caters to the needs of canteen staff, students, and administrators by providing a seamless interface for ordering, billing, inventory management, and reporting.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://www.smginfotech.com/wp-content/uploads/2022/06/Canteen-1024x724.gif",
     tags: [
       "Django",
       "Python",
@@ -235,7 +235,7 @@ export const projects = [
     description:
       "The EatEase is a dynamic and user-friendly platform developed using the MERN stack (MongoDB, Express.js, ReactJs, and Node.js). This application is designed to provide a seamless online shopping experience for customers looking to order a wide variety of food items, ranging from groceries to ready-to-eat meals. The app caters to both consumers and vendors, ensuring efficient order management, secure payments, and timely delivery.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://mir-s3-cdn-cf.behance.net/projects/404/7f8256164814135.Y3JvcCwxMTUwLDkwMCwxMjUsMA.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "#",
